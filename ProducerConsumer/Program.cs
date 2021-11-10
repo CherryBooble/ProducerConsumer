@@ -8,6 +8,8 @@ namespace ProducerConsumer
     {
         const int size = 3;
 
+        //test commit
+
         //static Semaphore s = new Semaphore(1, 1);
 
         static readonly object _locker = new object();
